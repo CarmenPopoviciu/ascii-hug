@@ -1,0 +1,41 @@
+{
+  "name": "ascii-hug",
+  "authors": [
+    "Carmen Popoviciu <carmen.popoviciu@gmail.com>"
+  ],
+  "description": "A big hug for the big web. Animated ascii hug Polymer element.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "ascii",
+    "ascii hug",
+    "smileys"
+  ],
+  "main": "ascii-hug.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/CarmenPopoviciu/ascii-hug/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "prefixfree": "*"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "0b9f33fb6f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0b9f33fb6fd12e65f1c8b05db1a3a8c92cdf3a86"
+  },
+  "_source": "git://github.com/CarmenPopoviciu/ascii-hug.git",
+  "_target": "master",
+  "_originalSource": "CarmenPopoviciu/ascii-hug",
+  "_direct": true
+}
